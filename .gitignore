@@ -1,0 +1,7 @@
+node_modules/
+temp/
+bower_components/
+build/
+bower.json
+debug.log
+Gruntfile.js

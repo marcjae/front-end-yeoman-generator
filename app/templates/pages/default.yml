@@ -1,0 +1,11 @@
+---
+title: Default
+layout: default.yml
+---
+<h1>About everything</h1>
+
+<p>Lorem Ipsum is not good for content</p>
+<ul>
+	<li>Boo</li>
+	<li>Woo</li>
+</ul>

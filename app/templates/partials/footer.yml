@@ -1,0 +1,13 @@
+	<div id="footer">
+		<p>Footer</p>
+	</div>
+	
+	
+	
+	
+	<!-- build:js resources/scripts/vendor.min.js -->
+    <!-- bower:js -->
+    <!-- endbower -->	
+  <!-- endbuild -->
+	</body>
+</html>

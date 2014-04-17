@@ -1,0 +1,13 @@
+<!-- Header -->
+{{>header}}
+
+<!-- Navigation -->
+{{>navigation}}
+
+<div class="wrapper">
+	{{>body}}
+</div>
+
+<!-- Footer -->
+{{>footer}}
+

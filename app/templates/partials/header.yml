@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <!-- the title from the page -->
+    <title>{{title}}</title>
+    
+    <!-- build:css resources/styles/css/main.css -->
+      <link rel="stylesheet" href="resources/styles/css/main.css" />
+      <link rel="stylesheet" href="resources/styles/css/base.css" />
+      <!-- Reference LESS files like there were CSS -->
+      <link rel="stylesheet" href="resources/styles/css/import.css" />
+    <!-- endbuild -->   
+    
+    
+  </head>
+  <body>
